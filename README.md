@@ -3,7 +3,7 @@
 - 🌱 I am Working as a Lead Software Developer With Experience in Headless CMS Websites, Theme Development, Plugin Development & also have Expertise with different Page Builders. (Elementor, Beaver Builder, WP Bakery Visual Composer, Divi Builder).
 - 🥇 I am Core Contributor in WordPress and also made contributions in Test, Translations, WP CLI, Documentation, Translations, Photos, Plugins.
 - 🔭 I’m Currently Learning deep diving to latest tech things.
-- 📫 Reach me :-  **narendra.sisodiya10**
+- 📫 Reach me :-  **narendra.sisodiya10@gmail.com**
 
 <h2 align="left">🌏 Find Me:</h2>
 <div align="left">

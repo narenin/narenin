@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋 I'm Narendra Sishodiya</h1>
 
-- 🌱 I am Working as a Lead Software Developer With Experience in Headless CMS Websites, Theme Development, Plugin Development & also have Expertise with different Page Builders. (Elementor, Beaver Builder, WP Bakery Visual Composer, Divi Builder).
+- 🌱 I am Working as a Lead Software Developer With Experience in Headless CMS Websites, Theme Development, Plugin Development & also have Expertise with different Page Builders. (Elementor, Divi Builder).
 - 🥇 I am Core Contributor in WordPress and also made contributions in Test, Translations, WP CLI, Documentation, Translations, Photos, Plugins.
 - 🔭 I’m Currently Learning deep diving to latest tech things.
 - 📫 Reach me :-  **narendra.sisodiya10@gmail.com**
@@ -23,8 +23,9 @@
      <a href="https://github-readme-streak-stats.herokuapp.com/?user=narenin&theme=aura_dark&show_icons=true" target="_blank">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narenin&theme=aura_dark" alt="narenin" />
      </a>
-     <a align="left" href="https://github-profile-trophy.vercel.app/?username=narenin&theme=aura_dark&show_icons=true" target="_blank">    
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=narenin&theme=aura_dark" alt="narenin" />
-     </a>
 </div>
 
+<h2 align="left">📊 My GitHub Badges:</h2>
+<a align="left" href="https://github-profile-trophy.vercel.app/?username=narenin&theme=aura_dark&show_icons=true" target="_blank">
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=narenin&theme=aura_dark" alt="narenin" />
+</a>

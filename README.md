@@ -20,6 +20,11 @@
 <div align="left">
      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=narenin&theme=aura_dark" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenin&theme=aura_dark" /></a>
      <a href="https://github-readme-stats.vercel.app/api?username=narenin&theme=aura_dark&show_icons=true" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=narenin&theme=aura_dark&show_icons=true" /></a>
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narenin&theme=aura_dark" alt="narenin" /></p>
+     <a href="https://github-readme-streak-stats.herokuapp.com/?user=narenin&theme=aura_dark&show_icons=true" target="_blank">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narenin&theme=aura_dark" alt="narenin" />
+     </a>
+     <a href="https://github-profile-trophy.vercel.app/?username=narenin&theme=aura_dark&show_icons=true" target="_blank">    
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=narenin&theme=aura_dark" alt="narenin" />
+     </a>
 </div>
 

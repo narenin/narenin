@@ -61,8 +61,3 @@ $narendra = [
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narenin&theme=aura_dark" alt="narenin" />
      </a>
 </div>
-
-<h2 align="left">📊 My GitHub Badges:</h2>
-<a align="left" href="https://github-profile-trophy.vercel.app/?username=narenin&theme=aura_dark&show_icons=true" target="_blank">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=narenin&theme=aura_dark" alt="narenin" />
-</a>
